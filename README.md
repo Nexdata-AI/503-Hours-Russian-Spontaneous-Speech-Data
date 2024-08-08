@@ -3,7 +3,7 @@
 ## Description
 503 Hours - Russian Spontaneous Speech Data, the content covering multiple topics. All the speech audio was manually transcribed into text content; speaker identity, gender, and other attribution are also annotated. This dataset can be used for voiceprint recognition model training, corpus construction for machine translation, and algorithm research introduction
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1271?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1271?source=Github
 
 
 # Specifications
